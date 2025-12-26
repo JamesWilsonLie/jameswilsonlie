@@ -3,6 +3,8 @@ Hello, my name is James Wilson Lie.
 
 I am a Fullstack Web Developer dedicated to creating efficient and user-friendly digital solutions. With a strong educational background and experience in various web development projects, I can bridge business needs with the right technical solutions.
 
+## 📜 Portofolio:
+[![Portofolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge)](https://jameswilsonlie.github.io/portofolio/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jameswl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jameswilsonlie) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jameswl00012@gmail.com) 
